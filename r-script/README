@@ -1,2 +1,2 @@
-This section stores the R script files that contain the code to automate the data cleaning and analysis before plotting each figure.
-Except for the lollipops by sex (due to changing coordinates for the in-figure text), all figures use a for loop to replicate the figure for all OECD countries. Additional manual modifications might be required to adjust some labels. 
+This section stores the R script files that contain the code for the figure automation of the How's Life? 2023 country profiles. The code in these files cleans and analyses the data before plotting each figure.
+Except for the lollipops by sex (due to changing coordinates for the in-figure text), all figures use a for loop to create and save the figure for all OECD countries. Additional manual modifications might be required to adjust some labels. 
